@@ -20,7 +20,7 @@ const RecipeDetails = () => {
 
   return (
     <>
-      <div style={{ paddingTop: '200px' }} className="container">
+      <div style={{ paddingTop: '150px' }} className="container">
         <div className="row justify-content-center align-items-center">
           <div className="col-lg-6 text-center mb-4 mb-lg-0">
            <img width={'100%'} height={'auto'} src={recipe?.image} alt={recipe?.image} className="rounded shadow" style={{ maxWidth: '400px' }}/>
